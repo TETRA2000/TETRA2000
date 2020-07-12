@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Blogs
+
+[Medium](https://medium.com/@TETRA2000)
+
+[dev.to](https://dev.to/tetra2000)
