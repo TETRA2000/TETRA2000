@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-## Blogs
+## Links
 
-[Medium](https://medium.com/@TETRA2000)
-
-[dev.to](https://dev.to/tetra2000)
+- [Medium](https://medium.com/@TETRA2000)
+- [dev.to](https://dev.to/tetra2000)
+- [itch.io](https://tetra2000.itch.io/)
