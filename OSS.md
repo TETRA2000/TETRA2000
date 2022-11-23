@@ -16,6 +16,7 @@
 
 - ❌ https://github.com/vuejs/vue-cli/pull/5697
 - ✅ https://github.com/Sysinternals/ProcMon-for-Linux/pull/23
+- ✅ https://github.com/denoland/deno/pull/6624
 
 
 ## 2019
