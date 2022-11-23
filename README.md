@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
-## Links
+## 📝 Links
 
 - [Medium](https://medium.com/@TETRA2000)
 - [dev.to](https://dev.to/tetra2000)
 - [itch.io](https://tetra2000.itch.io/)
 
-## OSS contributions
+## ✅ OSS contributions
 
 
-Please see [here](OSS.md).
+Please see from [here](OSS.md).
