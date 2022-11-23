@@ -1,7 +1,7 @@
 # OSS contributions
 
 
-## 2021
+## 2022
 
 - ❌ https://github.com/SerenityOS/serenity/pull/15530
 
