@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 ## OSS contributions
 
 
-See [here](OSS.md).
+Please see [here](OSS.md).
