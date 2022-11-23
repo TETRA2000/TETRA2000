@@ -25,7 +25,7 @@
 
 - (✅) https://github.com/carbon-app/carbon/pull/264
 - (❌) https://github.com/typicode/husky/pull/244
-- (❌) https://github.com/circleci/circleci-docs/pull/2132
+- (✅) https://github.com/circleci/circleci-docs/pull/2132
 - (✅) https://github.com/google/clasp/pull/175
 - (❌) https://github.com/riywo/node-build/pull/15
 
