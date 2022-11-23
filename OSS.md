@@ -58,3 +58,4 @@
 - ✅ https://github.com/Dimillian/SwiftHN/pull/38
 - ✅ https://github.com/Dimillian/HackerSwifter/pull/21
 - ✅ https://github.com/Dimillian/SwiftHN/pull/37
+- ❌ https://github.com/google/iosched/pull/109
