@@ -1,5 +1,10 @@
 # OSS contributions
 
+## 2023
+
+- ✅ https://github.com/Homebrew/brew/pull/14708
+  - Merged via https://github.com/Homebrew/brew/pull/15743
+
 
 ## 2022
 
